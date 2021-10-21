@@ -10,7 +10,7 @@
 
 # Introduction
 This is my analysis of a honeypot I setup using T-Pot and AWS.I am using AWS to host my server
-and T-POT to create the honeypot.I will be m
+and T-POT to create the honeypot.
 
 ## T-POT 
 This tool contains multiple honey pot and was developed by T-Mobile.

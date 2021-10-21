@@ -46,8 +46,26 @@ These are the commands the attackers ran once they got access to the server
 
 ![](command.png)
 
-#
+# Information about the attacker 
 
+## 141.98.10.60
+### Virus Total
+
+
+###
+
+### Credential
+The attacker gain access to my server by a brute force SSH attack.These are the usernames and password he used.
+Username
+![](141user.png)
+
+Password
+![](141pass.png)
+
+### Command
+These are the commands he ran after gaining access.
+![](141commands.png)
+The attacker only ran 3 commands in total.The commands were also the same.Hive is a OS primiarly used 
 
 
 

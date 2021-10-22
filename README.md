@@ -75,7 +75,7 @@ Password
 These are the commands he ran after gaining access.
 ![](141commands.png)
 The attacker only ran 3 commands in total.The commands were also the same.Hive is a OS primiarly used for crypto mining.
-He tried to change the password of a random user.After that he ran two commands to kill processes.The two processes he killed]
+He tried to change the password of the current OS.After that he ran two commands to kill processes.The two processes he killed]
 are responsible for the GUI interface for Linux.After that he ran the uname -a command which gave him information about the 
 OS and the underlying hardware.
 
@@ -90,6 +90,7 @@ The results after running the IP address in virustotal
 ### Geolocation
 The attacker is using a company that offeres VPS to conduct this attack.The company is located in Las Vegas.
 Frantech has been reported to host many malicious malware.
+
 ![](frantech.png)
 
 

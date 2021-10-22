@@ -15,7 +15,7 @@ and T-POT to create the honeypot.
 This tool contains multiple honey pot and was developed by T-Mobile.
 I hosted the honeypots on a AWS EC2 instance.This tool not only gives you multiple pre-built honeypots but as 
 well as tools for you to understand what the attacker did while he was on your server.I hosted my server 
-in the Oregon region
+in the Vergina region
 
 ## Cowrie
 Cowrie is one of the many honeypots that T-Pot offers.I will be making my analysis on this.

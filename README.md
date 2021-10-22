@@ -19,8 +19,13 @@ in the Oregon region
 
 ## Cowrie
 Cowrie is one of the many honeypots that T-Pot offers.I will be making my analysis on this.
-This honeypot is used to log SSH bruteforce attacks
-as well as the command the hackers run after gaining access to my server.
+This honeypot is used to log SSH bruteforce attacks as well as the command the hackers run after gaining access to my server.
+Cowrie can also act as a proxy for both SSH and Telnet
+
+
+## AWS 
+Using AWS I was able to get this honeypot up and running in a few hours. This honeypot requires pretty good hardware to
+be able to run proberly so I used t3.xlarge as my instacne type.
 
 # Overview
 
